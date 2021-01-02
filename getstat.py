@@ -6,6 +6,8 @@ import os
 url = "https://rpi-imager-stats.raspberrypi.org"
 prefix = datetime.today().strftime('%Y%m%d')
 
+os.system("git pull")
+
 fp = urllib.request.urlretrieve(url, "stats.html")
 html = pd.read_html("stats.html")
 
@@ -40,5 +42,5 @@ tbl6.to_csv(imagemonth, index=False)
 os.system("git add stats.html")
 os.system("git add " + ostoday + " " + osweek + " " + osmonth)
 os.system("git add " + imagetoday + " " + imageweek + " " + imagemonth)
-os.system("git commit -m ""Today stats"")
-
+os.system("git commit -m 'Today stats')
+os.system("git push")

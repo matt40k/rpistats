@@ -1,11 +1,11 @@
 Image,Percentage
 Raspberry Pi OS (32-bit),49.20%
-Raspberry Pi OS Lite (32-bit),14.42%
+Raspberry Pi OS Lite (32-bit),14.43%
 Raspberry Pi OS Full (32-bit),9.92%
 Ubuntu Desktop 20.10 (RPi 4/400),5.55%
-RetroPie 4.7.1 (RPI 4/400),3.22%
+RetroPie 4.7.1 (RPI 4/400),3.21%
 Raspberry Pi 4 EEPROM boot recovery,2.25%
-Ubuntu Server 20.04.1 LTS (RPi 3/4),1.98%
+Ubuntu Server 20.04.1 LTS (RPi 3/4),1.97%
 RetroPie 4.7.1 (RPI 2/3),1.67%
 LibreELEC (RPi4),1.65%
 Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),1.57%
@@ -16,7 +16,7 @@ RISC OS (5.28),0.88%
 Ubuntu Server 20.10 (RPi 2/3/4/400),0.85%
 RetroPie 4.7.1 (RPI 1/Zero),0.72%
 Ubuntu Server 20.04.1 LTS (RPi 2/3/4),0.57%
-Ubuntu Core 18 (RPi 3/4),0.44%
+Ubuntu Core 18 (RPi 3/4),0.45%
 LibreELEC (RPi0/RPi1),0.29%
 Ubuntu Core 18 (RPi 2/3/4),0.27%
 Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.26%

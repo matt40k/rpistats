@@ -1,24 +1,24 @@
 Image,Percentage
-Raspberry Pi OS (32-bit),46.07%
-Raspberry Pi OS Lite (32-bit),14.79%
-Raspberry Pi OS Full (32-bit),9.53%
-Ubuntu Desktop 20.10 (RPi 4/400),5.35%
-RetroPie 4.7.1 (RPI 4/400),3.05%
-Recalbox 7.1.1-Reloaded (Pi 3),2.86%
-Raspberry Pi 4 EEPROM boot recovery,2.64%
-Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),2.29%
-Ubuntu Server 20.04.1 LTS (RPi 3/4),2.11%
-RetroPie 4.7.1 (RPI 2/3),1.78%
-LibreELEC (RPi4),1.64%
-Ubuntu Server 20.10 (RPi 3/4/400),1.41%
-LibreELEC (RPi2/RPi3),1.40%
-RISC OS (5.28),1.00%
-Ubuntu Server 20.10 (RPi 2/3/4/400),0.94%
+Raspberry Pi OS (32-bit),45.66%
+Raspberry Pi OS Lite (32-bit),14.62%
+Raspberry Pi OS Full (32-bit),9.64%
+Ubuntu Desktop 20.10 (RPi 4/400),5.30%
+RetroPie 4.7.1 (RPI 4/400),3.32%
+Recalbox 7.1.1-Reloaded (Pi 3),2.70%
+Raspberry Pi 4 EEPROM boot recovery,2.53%
+Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),2.39%
+Ubuntu Server 20.04.1 LTS (RPi 3/4),1.96%
+RetroPie 4.7.1 (RPI 2/3),1.95%
+LibreELEC (RPi4),1.61%
+Ubuntu Server 20.10 (RPi 3/4/400),1.57%
+LibreELEC (RPi2/RPi3),1.44%
+Ubuntu Server 20.10 (RPi 2/3/4/400),1.02%
+RISC OS (5.28),0.96%
+RetroPie 4.7.1 (RPI 1/Zero),0.72%
 Ubuntu Server 20.04.1 LTS (RPi 2/3/4),0.68%
-RetroPie 4.7.1 (RPI 1/Zero),0.64%
-Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.50%
+Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.53%
 Ubuntu Core 18 (RPi 3/4),0.40%
-LibreELEC (RPi0/RPi1),0.34%
-Ubuntu Core 18 (RPi 2/3/4),0.27%
-Recalbox 7.1.1-Reloaded (Pi 2),0.24%
+LibreELEC (RPi0/RPi1),0.36%
+Ubuntu Core 18 (RPi 2/3/4),0.28%
+Recalbox 7.1.1-Reloaded (Pi 2),0.27%
 TLXOS RPi 4.9.2 (latest),0.08%

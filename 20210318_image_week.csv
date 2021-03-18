@@ -1,0 +1,35 @@
+Image,Percentage
+Raspberry Pi OS (32-bit),44.30%
+Raspberry Pi OS Lite (32-bit),14.05%
+Raspberry Pi OS Full (32-bit),9.85%
+Ubuntu Desktop 20.10 (RPi 4/400),5.73%
+Ubuntu Server 20.04.2 LTS (RPi 3/4/400),2.80%
+RetroPie 4.7.1 (RPI 4/400),2.68%
+SD Card Boot,1.98%
+USB Boot,1.93%
+RetroPie 4.7.1 (RPI 2/3),1.85%
+Ubuntu Server 20.10 (RPi 3/4/400),1.73%
+Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),1.59%
+LibreELEC (RPi4),1.49%
+Recalbox 7.1.1-Reloaded (Pi 3),1.46%
+LibreELEC (RPi2/RPi3),1.19%
+Manjaro ARM KDE Plasma 21.02 (RPi 3/3+/4/400),1.01%
+Ubuntu Server 20.10 (RPi 2/3/4/400),0.96%
+Ubuntu Server 20.04.2 LTS (RPi 2/3/4/400),0.75%
+RetroPie 4.7.1 (RPI 1/Zero),0.73%
+RISC OS (5.28),0.68%
+Ubuntu Core 18 (RPi 3/4),0.56%
+Manjaro ARM XFCE 21.02 (RPi 3/3+/4/400),0.49%
+Manjaro ARM MATE 21.02 (RPi 3/3+/4/400),0.37%
+OctoPi,0.35%
+Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.34%
+Ubuntu Core 18 (RPi 2/3/4),0.28%
+LibreELEC (RPi0/RPi1),0.24%
+Manjaro ARM Minimal 21.02 (RPi 3/3+/4/400),0.20%
+Recalbox 7.1.1-Reloaded (Pi 2),0.16%
+Network Boot,0.15%
+TLXOS RPi 4.9.3 (latest),0.05%
+TLXOS RPi IoT 4.8.1 (LTS),0.01%
+TLXOS RPi 4.8.1 (LTS),0.01%
+OctoPi (mirror),0.00%
+Raspberry Pi 4 EEPROM boot recovery,0.00%

@@ -1,31 +1,31 @@
 Image,Percentage
-Raspberry Pi OS (32-bit),43.04%
-Raspberry Pi OS Lite (32-bit),14.67%
+Raspberry Pi OS (32-bit),43.01%
+Raspberry Pi OS Lite (32-bit),14.66%
 Raspberry Pi OS Full (32-bit),9.36%
-Ubuntu Desktop 20.10 (RPi 4/400),5.90%
+Ubuntu Desktop 20.10 (RPi 4/400),5.89%
 Ubuntu Server 20.04.2 LTS (RPi 3/4/400),3.11%
-RetroPie 4.7.1 (RPI 4/400),2.58%
-USB Boot,2.41%
-Ubuntu Server 20.10 (RPi 3/4/400),1.96%
+RetroPie 4.7.1 (RPI 4/400),2.59%
+USB Boot,2.42%
+Ubuntu Server 20.10 (RPi 3/4/400),1.97%
 SD Card Boot,1.90%
 RetroPie 4.7.1 (RPI 2/3),1.60%
 Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),1.54%
-Recalbox 7.1.1-Reloaded (Pi 3),1.52%
+Recalbox 7.1.1-Reloaded (Pi 3),1.53%
 LibreELEC (RPi4),1.45%
 LibreELEC (RPi2/RPi3),1.17%
 Ubuntu Server 20.10 (RPi 2/3/4/400),1.03%
 Manjaro ARM KDE Plasma 21.02 (RPi 3/3+/4/400),0.99%
-Ubuntu Server 20.04.2 LTS (RPi 2/3/4/400),0.83%
-RetroPie 4.7.1 (RPI 1/Zero),0.71%
+Ubuntu Server 20.04.2 LTS (RPi 2/3/4/400),0.84%
+RetroPie 4.7.1 (RPI 1/Zero),0.72%
 RISC OS (5.28),0.68%
 Manjaro ARM XFCE 21.02 (RPi 3/3+/4/400),0.59%
 Ubuntu Core 18 (RPi 3/4),0.52%
-OctoPi,0.44%
+OctoPi,0.45%
 Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.36%
 Manjaro ARM MATE 21.02 (RPi 3/3+/4/400),0.34%
 Ubuntu Core 18 (RPi 2/3/4),0.29%
 LibreELEC (RPi0/RPi1),0.27%
-Manjaro ARM Minimal 21.02 (RPi 3/3+/4/400),0.23%
+Manjaro ARM Minimal 21.02 (RPi 3/3+/4/400),0.24%
 Network Boot,0.16%
 Recalbox 7.1.1-Reloaded (Pi 2),0.15%
 TLXOS RPi 4.9.3 (latest),0.04%

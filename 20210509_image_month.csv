@@ -1,0 +1,52 @@
+Image,Percentage
+Raspberry Pi OS (32-bit),41.51%
+Raspberry Pi OS Lite (32-bit),13.95%
+Raspberry Pi OS Full (32-bit),9.17%
+Ubuntu Desktop 21.04 (RPi 4/400),4.11%
+Ubuntu Server 20.04.2 LTS (RPi 3/4/400),3.49%
+Ubuntu Desktop 20.10 (RPi 4/400),2.74%
+RetroPie 4.7.1 (RPI 4/400),2.62%
+USB Boot,2.07%
+SD Card Boot,2.06%
+RetroPie 4.7.1 (RPI 2/3),1.65%
+Ubuntu Server 21.04 (RPi 3/4/400),1.43%
+LibreELEC (RPi4),1.38%
+LibreELEC (RPi2/RPi3),1.14%
+Recalbox 7.2-Reloaded - Pi4 / Pi400,0.99%
+Ubuntu Server 20.10 (RPi 3/4/400),0.92%
+Ubuntu Server 20.04.2 LTS (RPi 2/3/4/400),0.91%
+Recalbox 7.2-Reloaded - Pi3,0.89%
+Manjaro ARM KDE Plasma 21.04 (RPi 3/3+/4/400),0.86%
+Recalbox 7.1.1-Reloaded (Pi 4/Pi 400),0.78%
+Recalbox 7.1.1-Reloaded (Pi 3),0.73%
+RetroPie 4.7.1 (RPI 1/Zero),0.68%
+RISC OS (5.28),0.66%
+Ubuntu Server 21.04 (RPi 2/3/4/400),0.66%
+Ubuntu Core 18 (RPi 3/4),0.54%
+Manjaro ARM XFCE 21.04 (RPi 3/3+/4/400),0.50%
+Ubuntu Server 20.10 (RPi 2/3/4/400),0.49%
+OctoPi,0.45%
+Ubuntu Core 18 (RPi 2/3/4),0.32%
+Manjaro ARM MATE 21.04 (RPi 3/3+/4/400),0.29%
+LibreELEC (RPi0/RPi1),0.25%
+Manjaro ARM Minimal 21.04 (RPi 3/3+/4/400),0.20%
+Recalbox 7.2-Reloaded - Pi0 / Pi1 / GPiCase,0.19%
+Recalbox 7.2.1-Reloaded - Pi4 / Pi400,0.17%
+Recalbox 7.1.1-Reloaded (Pi 0/1/GPI Case),0.15%
+Recalbox 7.2.1-Reloaded - Pi3,0.15%
+Network Boot,0.14%
+info-beamer OS,0.14%
+Homebridge,0.11%
+Manjaro ARM KDE Plasma 21.02 (RPi 3/3+/4/400),0.10%
+Recalbox 7.1.1-Reloaded (Pi 2),0.08%
+Recalbox 7.2-Reloaded - Pi2,0.07%
+Manjaro ARM XFCE 21.02 (RPi 3/3+/4/400),0.06%
+TLXOS RPi 4.9.3 (latest),0.04%
+ALT Workstation 9.1 (Raspberry Pi 4/3),0.03%
+Recalbox 7.2.1-Reloaded - Pi0 / Pi1 / GPiCase,0.03%
+Manjaro ARM MATE 21.02 (RPi 3/3+/4/400),0.03%
+ALT Education 9.1 (Raspberry Pi 4/3),0.02%
+Manjaro ARM Minimal 21.02 (RPi 3/3+/4/400),0.02%
+OctoPi (mirror),0.02%
+info-beamer OS (testing),0.02%
+Recalbox 7.2.1-Reloaded - Pi2,0.02%

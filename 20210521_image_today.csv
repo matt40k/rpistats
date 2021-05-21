@@ -1,0 +1,41 @@
+Image,Percentage
+Raspberry Pi OS (32-bit),40.30%
+Raspberry Pi OS Lite (32-bit),14.28%
+Raspberry Pi OS Full (32-bit),8.75%
+Ubuntu Desktop 21.04 (RPi 4/400),8.26%
+Ubuntu Server 20.04.2 LTS (RPi 3/4/400),3.31%
+Ubuntu Server 21.04 (RPi 3/4/400),2.56%
+RetroPie 4.7.1 (RPI 4/400),2.24%
+SD Card Boot,2.08%
+RetroPie 4.7.1 (RPI 2/3),1.84%
+USB Boot,1.84%
+Recalbox 7.2.1-Reloaded - Pi4 / Pi400,1.62%
+Recalbox 7.2.1-Reloaded - Pi3,1.60%
+LibreELEC (RPi4),1.37%
+Ubuntu Server 21.04 (RPi 2/3/4/400),1.08%
+LibreELEC (RPi2/RPi3),1.03%
+Ubuntu Server 20.04.2 LTS (RPi 2/3/4/400),0.81%
+RISC OS (5.28),0.77%
+Manjaro ARM KDE Plasma 21.04 (RPi 3/3+/4/400),0.76%
+RetroPie 4.7.1 (RPI 1/Zero),0.68%
+Homebridge,0.62%
+Manjaro ARM XFCE 21.04 (RPi 3/3+/4/400),0.58%
+Ubuntu Core 18 (RPi 3/4),0.55%
+OctoPi,0.48%
+Recalbox 7.2.1-Reloaded - Pi0 / Pi1 / GPiCase,0.37%
+Home Assistant OS 5.13 (RPi 4/400),0.35%
+Manjaro ARM MATE 21.04 (RPi 3/3+/4/400),0.25%
+Ubuntu Core 18 (RPi 2/3/4),0.22%
+Manjaro ARM Minimal 21.04 (RPi 3/3+/4/400),0.22%
+info-beamer OS,0.19%
+Home Assistant OS 5.13 (RPi 3),0.19%
+LibreELEC (RPi0/RPi1),0.17%
+Recalbox 7.2.1-Reloaded - Pi2,0.14%
+Network Boot,0.13%
+ALT Education 9.1 (Raspberry Pi 4/3),0.11%
+TLXOS RPi 4.8.2 (LTS),0.10%
+TLXOS RPi 4.10.0 (latest),0.09%
+ALT Workstation 9.1 (Raspberry Pi 4/3),0.04%
+OctoPi (mirror),0.02%
+info-beamer OS (testing),0.01%
+Simply Linux 9.1 (Raspberry Pi 4/3),0.01%
